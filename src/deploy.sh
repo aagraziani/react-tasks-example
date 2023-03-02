@@ -1,0 +1,1 @@
+git push -f git@github.com:aagraziani/react-taskapp-example.git main:gh-pages   
